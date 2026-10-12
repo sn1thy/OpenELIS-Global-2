@@ -12748,5 +12748,18 @@
   "reports.running": "Running...",
   "reports.empty": "Nothing matched these filters.",
   "reports.empty.stockOnHandAsOf": "No stock movements are recorded on or before this date, so stock as it stood then cannot be reconstructed. This is not the same as having held nothing.",
-  "reports.asOfDate.basis": "Reconstructed from recorded stock movements up to this date, not from a physical count."
+  "reports.asOfDate.basis": "Reconstructed from recorded stock movements up to this date, not from a physical count.",
+  "sideNav.title.managementOverview": "Management Overview",
+  "label.mgmt.title": "Management Overview",
+  "label.mgmt.subtitle": "{0} · {1} · {2} samples processed",
+  "label.dashboard.refresh": "Refresh",
+  "label.dashboard.lastUpdated": "Updated {0}m ago",
+  "label.dashboard.scope.last7days": "Last 7 days",
+  "label.dashboard.scope.last30days": "Last 30 days",
+  "label.dashboard.scope.last90days": "Last 90 days",
+  "label.dashboard.scope.quarter": "Quarter",
+  "label.dashboard.scope.yearToDate": "Year-to-date",
+  "label.dashboard.scope.year": "Year",
+  "label.mgmt.subtitle.noSiteName": "{0} · {1} samples processed",
+  "label.dashboard.scope": "Time scope"
 }
